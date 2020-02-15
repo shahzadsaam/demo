@@ -1,7 +1,6 @@
 hi 
 helloworld 
-<<<<<<< HEAD
 how are you
-=======
 saleem change
->>>>>>> 4145652e66a63ff739dd5f14a21824891dc7e505
+new change for update for example
+
