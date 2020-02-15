@@ -1,1 +1,2 @@
 this is smart git test example 
+last example is good work
